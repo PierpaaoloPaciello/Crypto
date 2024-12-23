@@ -1,0 +1,14 @@
+{
+    "binance": {
+        "key": "your-binance-api-key",
+        "secret": "your-binance-secret-key"
+    },
+    "cryptocom": {
+        "key": "your-cryptocom-api-key",
+        "secret": "your-cryptocom-secret-key"
+    },
+    "alpaca": {
+        "key": "PKXJLGCDE9KBGZHVXVFE",
+        "secret": "KfhTHlaxEhuBYcocE7Njliop7GD4CNYohOMfnVBC"
+    }
+}
